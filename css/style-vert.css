@@ -77,13 +77,13 @@ table {
 
 #submit {
     margin-top:15%;
-    font-size: 55px;
+    font-size: 50px;
     /* margin: 5% auto; */
     /* margin-left: 50%; */
     background-color: rgb(18, 180, 32);
     color: rgb(255, 255, 255);
     /* height: 30px; */
-    width: 300px;
+    width: 280px;
     border-radius: 8px;
     border-style: solid;
     border-width: 1px;
@@ -99,8 +99,8 @@ table {
 }
 
 img {
-    width: 200px;
-    height: 200px;
+    width: 160px;
+    height: 160px;
 }
 
 .res {
