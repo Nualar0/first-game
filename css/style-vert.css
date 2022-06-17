@@ -70,7 +70,7 @@ table {
 
 .random {
     margin-top: 10%;
-    display: flex;
+/*     display: flex; */
     flex-wrap: wrap;
     justify-content:center;
 }
